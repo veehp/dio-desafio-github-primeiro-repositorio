@@ -2,4 +2,4 @@
 Desafio de Projeto sobre Git/Github
 
 ## Links uteis
-{Sintexe Basica Mardown} (https://www.markdownguide.org/basic-syntax/)
+[Sintexe Basica Mardown](https://www.markdownguide.org/basic-syntax/)
